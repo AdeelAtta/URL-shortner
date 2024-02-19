@@ -1,0 +1,21 @@
+{
+  "name": "urlshortner",
+  "version": "0.0.1",
+  "description": "url shortner website that shorten the website",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongoose": "^8.1.3",
+    "nanoid": "^5.0.5",
+    "nodemon": "^3.0.3"
+  },
+  "devDependencies": {
+    "uniqueid": "^1.0.0"
+  }
+}
